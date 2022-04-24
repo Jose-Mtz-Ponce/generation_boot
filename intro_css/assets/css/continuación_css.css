@@ -1,0 +1,43 @@
+
+/*body{
+    width: 100%;
+    height: auto;
+}*/
+.forma{
+    width: 100%;
+    height: auto;
+    font-size: 20px
+    
+
+}
+*{
+    box-sizing: border-box;
+}
+
+.color{
+    background-color: blue;
+    border: 5px solid lawngreen;   
+    text-align: center;
+}
+p{
+    padding: 20px;
+    border: 2px solid black;
+    margin: 0;
+    text-align: center;
+
+}
+a{
+    width: 50%;
+    padding: 10px;
+    border: 3px solid red;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+a{ 
+    margin-top: 50px;
+    text-align: center;
+    border: 3px solid red;
+    display: block;
+
+}
